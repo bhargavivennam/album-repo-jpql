@@ -448,7 +448,6 @@ puneethsai@Puneeths-MacBook-Pro spring-boot-app-with-postgres % docker compose u
 ## Run & Test
 
 Using OpenAPI Documentation, we'll be able to access all the operations, please access the below URL
-Swagger Testing Tool:
 
 > http://localhost:8080/swagger-ui/index.html
 
