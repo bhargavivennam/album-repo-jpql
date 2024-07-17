@@ -1,14 +1,13 @@
 name: Maven CI/CD
 
 on:
- push:
+  push:
     branches: [ master ]
   pull_request:
     branches: [ master ]
 
 jobs:
   build_and_test:
-
     runs-on: ubuntu-latest
 
     steps:
